@@ -3,7 +3,7 @@ export default function About() {
         <div
             className="h-full"
             style={{
-                backgroundImage: "url('./src/assets/criancas-comendo2.png')",
+                backgroundImage: "url('./assets/criancas-comendo2.png')",
                 backgroundSize: "cover",
                 backgroundPosition: "center",
                 backgroundRepeat: "no-repeat",
@@ -30,7 +30,7 @@ export default function About() {
                     </div>
                 </div>
                 <div className="">
-                    <img src="./src/assets/informacao-alimento.png" alt="Inforção de Alimento" style={{ height: "600px" }} />
+                    <img src="./assets/informacao-alimento.png" alt="Inforção de Alimento" style={{ height: "600px" }} />
                 </div>
             </div>
         </div>

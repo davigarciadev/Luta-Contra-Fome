@@ -7,7 +7,7 @@ export default function Nav() {
                 
                 <Link to="/">
                     <img 
-                        src="./src/assets/logo.png" 
+                        src="./assets/logo.png" 
                         alt="Logo" 
                         className="h-28 object-contain transition-all transform hover:scale-105 duration-300" 
                         style={{ marginRight: "100px" }} 
