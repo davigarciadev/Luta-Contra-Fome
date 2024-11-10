@@ -13,10 +13,10 @@ export default function Footer() {
                         <p className="font-bold">REDES SOCIAIS</p>
 
                     </div>
-                    <div className="flex gap-4 h-8 justify-end">
-                        <img src="./src/assets/instagram.png" alt="logo instagram" />
-                        <img src="./src/assets/linkedin.png" alt="logo linkedin" />
-                        <img src="./src/assets/facebook.png" alt="logo facebook" />
+                    <div className="flex gap-4 justify-end">
+                        <a href="https://www.instagram.com/"><img src="./src/assets/instagram.png" alt="logo instagram" className="transition-all transform hover:scale-105 duration-300" style={{ height: "30px", width: "30px", }} /></a>
+                        <a href="https://www.linkedin.com/"><img src="./src/assets/linkedin.png" alt="logo linkedin" className="transition-all transform hover:scale-105 duration-300" style={{ height: "30px", width: "30px" }}/></a>
+                        <a href="https://web.facebook.com/"><img src="./src/assets/facebook.png" alt="logo facebook" className="transition-all transform hover:scale-105 duration-300" style={{ height: "30px", width: "30px" }}/></a>
                     </div>
                 </div>
             </div>

@@ -22,7 +22,7 @@ export default function About() {
                     Doe agora e faça parte da construção de <br /> um país mais justo e bem alimentado
                 </p>
             </div>
-            <div className="flex justify-center items-center gap-20" style={{ height: "120vh" }}>
+            <div className="flex justify-center items-center gap-20" style={{ height: "120vh"}}>
                 <div className="h-full flex justify-center align-center items-center">
                     <div className="h-full flex flex-col justify-center gap-6">
                         <p className="text-7xl " style={{ color: "#B23434", fontWeight: "bold" }}>Barrigas vazias e <br /> lixeiras cheias </p>
